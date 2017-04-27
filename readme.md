@@ -4,8 +4,8 @@ Contributors
 --------------
 - [sama55][1], [ProThoughts][2]
 
-[1]: http://question2answer.org/user/sama55
-[2]: http://question2answer.org/user/ProThoughts
+[1]: http://question2answer.org/qa/user/sama55
+[2]: http://question2answer.org/qa/user/ProThoughts
 
 Plugin Version
 --------------

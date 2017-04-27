@@ -1,0 +1,12 @@
+{
+	"name": "CKEditor4 for admin",
+	"uri": "https://github.com/ProThoughts/q2a-ckeditor4-admin",
+	"description": "Replaces HTML-enable-TEXTAREA of admin page to CKEditor",
+	"version": "1.0",
+	"date": "2017-04-27",
+	"author": "ProThoughts",
+	"author_uri": "https://github.com/ProThoughts",
+	"license": "GPLv2",
+	"update_uri": "https://raw.githubusercontent.com/ProThoughts/q2a-ckeditor4-admin/master/metadata.json",
+	"min_q2a": "1.6"
+}
